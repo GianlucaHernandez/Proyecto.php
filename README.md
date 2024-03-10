@@ -13,6 +13,8 @@ Este proyecto fue desarrollado en:
 
     - PHP (lo instalamos en la terminal de ubuntu con el comando: "sudo apt install php).
 
+3. Leonardo ai (esta pagina web nos servira para generar nuestra iamgen) https://leonardo.ai/
+
 
 ## Pasos para su ejecucion
 
