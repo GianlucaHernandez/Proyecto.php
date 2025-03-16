@@ -1,4 +1,5 @@
--- create functions
+-- This script should be run once the tables and triggers have been created. 
+
 -- function: This function returns the current stock of a specific product.
 DELIMITER $$
 CREATE FUNCTION get_current_stock(prod_id INT) RETURNS INT
